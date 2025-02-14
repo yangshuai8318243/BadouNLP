@@ -1,1 +1,0 @@
-chars.txt包含在了data文件夹里
